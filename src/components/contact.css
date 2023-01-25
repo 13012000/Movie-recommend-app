@@ -1,0 +1,27 @@
+ 
+  @media (max-width: 800px) {
+    .wrapper{
+        float: none;
+        margin: 5%;
+        width: 90%;
+    }
+   }
+   
+  
+ 
+  
+  .wrapper {
+    min-height: 100vh;
+    background: #060822;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+  }
+  
+  .card {
+    
+    margin-top: 12rem;
+  }
+  
+ 
+
